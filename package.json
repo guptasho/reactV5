@@ -4,6 +4,7 @@
   "description": "ReactV5 Course",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
     "format": "prettier \"src/**/*.{js,html}\" --write",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +20,8 @@
   },
   "homepage": "https://github.com/guptasho/reactV5#readme",
   "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-prettier": "^6.0.0",
     "prettier": "^1.18.2"
   }
 }
