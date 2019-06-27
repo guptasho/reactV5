@@ -1,0 +1,24 @@
+{
+  "name": "ReactV5",
+  "version": "1.0.0",
+  "description": "ReactV5 Course",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guptasho/reactV5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guptasho/reactV5/issues"
+  },
+  "homepage": "https://github.com/guptasho/reactV5#readme",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
