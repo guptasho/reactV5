@@ -5,8 +5,9 @@
   "main": "index.js",
   "dependencies": {
     "@frontendmasters/pet": "^1.0.3",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "@reach/router": "^1.2.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.2",
